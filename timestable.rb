@@ -9,6 +9,7 @@ def times_table(rows)
       c += 1
     end
     print "\n"
+    c = 1
     r += 1
   end
 end 
